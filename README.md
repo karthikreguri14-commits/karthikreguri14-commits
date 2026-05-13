@@ -18,7 +18,7 @@
 - 📚 Currently in **5th Semester**
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 🌐 Full Stack Developer
-- 💻 Love Backend Development
+- 💻 Love Frontend Development
 - 🚀 Always learning new technologies and programming languages
 - 🧠 Interested in AI, ML, Web Development & Problem Solving
 
