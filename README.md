@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there 👋, I'm Reguri Karthikchandh 🚀</h1>
+<h1 align="center"> I'm Reguri Karthikchandh 🚀</h1>
 
 <h3 align="center">AI & ML Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
