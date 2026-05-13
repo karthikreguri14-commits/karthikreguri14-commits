@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hey there 👋, I'm Reguri Karthikchandh 🚀</h1>
 
 <h3 align="center">AI & ML Engineer | Full Stack Developer | Tech Enthusiast</h3>
@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px"/>
@@ -23,7 +22,6 @@
 - 🚀 Always learning new technologies and programming languages
 - 🧠 Interested in AI, ML, Web Development & Problem Solving
 
----
 
 # 🚀 Tech Stack
 
@@ -57,7 +55,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
----
 
 # 📊 GitHub Stats
 
@@ -69,7 +66,6 @@
 
 </div>
 
----
 
 # 🔥 GitHub Streak
 
@@ -77,13 +73,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 # 🌟 Quote
 
 > "Code. Learn. Build. Repeat."
 
----
 
 # 📫 Connect With Me
 
@@ -103,9 +97,7 @@
 
 </p>
 
----
 
 <p align="center">
   💙 Thanks for visiting my profile 💙
 </p>
-```
